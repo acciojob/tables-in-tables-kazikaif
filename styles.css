@@ -4,3 +4,9 @@ table{
 	table-layout: fixed;
 	width:100%;
 }
+.html{
+	background-color: black;
+	webkit-text-stroke-color:white;
+	color:white;
+	text-align:center;
+}
